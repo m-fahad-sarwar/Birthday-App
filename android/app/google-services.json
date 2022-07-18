@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27885346038",
+    "project_id": "birthdayapp-29f55",
+    "storage_bucket": "birthdayapp-29f55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27885346038:android:d94f9120633af97c0860d7",
+        "android_client_info": {
+          "package_name": "com.birthdayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27885346038-qlof2422uu1t8sv4i0rvktqajhtm8ae0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaGQSw5Tgyv0EvzKiRj9wMCPWjeqqpUew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27885346038-qlof2422uu1t8sv4i0rvktqajhtm8ae0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
